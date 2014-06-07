@@ -1,0 +1,27 @@
+#cfsp-meta-edit-window {
+	border: thin solid #cccccc;
+	margin: 7px;
+	padding: 7px;
+	border-radius: 3px;
+	background-color: #ffffff;
+}
+
+#cfsp-meta-edit-window > * {
+	margin-top: 7px;
+}
+
+#cfsp-meta-edit-window > *:first-child {
+	margin-top: 0px;
+}
+
+#cfsp-meta-edit-window label {
+	display: block;
+}
+
+#cfsp-meta-edit-window .message {
+	border: thin solid #cccc00;
+	background-color: #ffffcc;
+	border-radius: 3px;
+	display: none;
+	padding: 3px;
+}
